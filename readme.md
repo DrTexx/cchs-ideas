@@ -7,19 +7,13 @@ This is essentially the SCP foundation equaivalent of hackerspace ideas.
 More to come.
 
 ## Catagory Summaries
-### Perfect Products - Stuff we've made
-Things we made.
+**Perfect Products** - Stuff we've made
 
-### Flawed Fabrications - Stuff we've made but no-one asked for
-Things we made but we're not sure why.
+**Flawed Fabrications** - Stuff we've made but no-one asked for
 
-### Flawed Fabriction Ideas
-(summary needed)
+**Flawed Fabriction Ideas** - (summary needed) (new catagory name needed)
 
-(new catagory name needed)
-
-### Bin Juice - Just no
-Ideas that are straight hot garbage (doesn't mean they won't become reality)
+**Bin Juice** - Ideas that are straight hot garbage (doesn't mean they won't become reality)
 
 ## Perfect Products
 ### Hydroponics Vending Machine (not for drugs)
@@ -46,4 +40,5 @@ _"There was a gap in the market"_ - Lachlan
 ## Honourable Mentions
 ### Undercover Police Officer
 No like, you're undercover _AS_ a police officer.
+
 _Origin:_ Chris misheard Denver saying "Hello fellow kids" as "Hello fellow pigs".

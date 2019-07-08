@@ -22,7 +22,7 @@ Things we made but we're not sure why.
 Ideas that are straight hot garbage (doesn't mean they won't become reality)
 
 ## Perfect Products
-### Hydroponics Vending Machine (not forfor stuff like , not drugs)
+### Hydroponics Vending Machine (not for drugs)
 (summary needed)
 
 ## Flawed Fabrications
@@ -40,11 +40,10 @@ _"There was a gap in the market"_ - Lachlan
 ### Pick-and-Place Pizza Machine
 (summary needed)
 
-### Undercover Police Officer
-No like, you're undercover _AS_ a police officer. A word of warning from Chris, "Hello fellow pigs" may get your cover blown.
-
 ### Pick-and-Place Printing Press
 (summary needed)
 
-### Skybed
-It's just the name skybed. Whatever it is it sounds like an insurance liability.
+## Honourable Mentions
+### Undercover Police Officer
+No like, you're undercover _AS_ a police officer.
+_Origin:_ Chris misheard Denver saying "Hello fellow kids" as "Hello fellow pigs".

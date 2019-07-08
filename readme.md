@@ -25,7 +25,7 @@ More to come.
 
 _"There was a gap in the market"_ - Lachlan
 
-[![SAUCEBOT VIDEO](https://img.youtube.com/vi/QSnrsZbB1oo/0.jpg)](https://www.youtube.com/watch?v=QSnrsZbB1oo)
+[![SAUCEBOT VIDEO](https://i.imgur.com/3253IBY.jpg)](https://www.youtube.com/watch?v=fAMgsBxWGQ4)
 
 ## Bin Juice
 ### Lazer Type-writer

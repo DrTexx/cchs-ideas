@@ -39,7 +39,9 @@ _"There was a gap in the market"_ - Lachlan
 
 ### Robotic Zen Garden
 Chris: "We should have, like, sensors to detect the social tension in the Hackerspace... and like."
+
 ...
+
 Chris: "If it exceeds a certain level, a little robot arms starts raking some sand. Like a zen garden."
 
 ## Honourable Mentions

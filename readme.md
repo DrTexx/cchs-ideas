@@ -44,6 +44,10 @@ Chris: "We should have, like, sensors to detect the social tension in the Hacker
 
 Chris: "If it exceeds a certain level, a little robot arms starts raking some sand. Like a zen garden."
 
+### Ethically Source Cocaine (Adric, Mitch, Tom & Denver)
+We should have ethically sourced cocaine, where each batch has a blockchain tracking code, with the purity content and a picture of the maker smiling.
+The only issue would be there poor columbian farmers keep wondering why their whole operation keeps getting shut down.
+
 ## Honourable Mentions
 ### Undercover Police Officer
 No like, you're undercover _AS_ a police officer.

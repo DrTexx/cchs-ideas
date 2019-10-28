@@ -48,6 +48,15 @@ Chris: "If it exceeds a certain level, a little robot arms starts raking some sa
 We should have ethically sourced cocaine, where each batch has a blockchain tracking code, with the purity content and a picture of the maker smiling.
 The only issue would be there poor columbian farmers keep wondering why their whole operation keeps getting shut down.
 
+### Saw-blade Wielding Robot Arm
+(summary needed)
+
+Andrew: * _cutting something with circular saw_ *
+
+Denver: "***we should make a circular saw with a stepper motor***... so then we make make it play music with Sam's stepper music script."
+
+Andrew: "And then we can put it on your robot arms!"
+
 ## Honourable Mentions
 ### Undercover Police Officer
 No like, you're undercover _AS_ a police officer.
@@ -55,3 +64,4 @@ No like, you're undercover _AS_ a police officer.
 _Origin:_ Chris misheard Denver saying "Hello fellow kids" as "Hello fellow pigs".
 
 ### Speedometer Using Demerit Points as Units
+(summary needed)

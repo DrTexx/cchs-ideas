@@ -29,7 +29,7 @@ _"There was a gap in the market"_ - Lachlan
 
 ## Flawed Fabrication Ideas
 ### Skewmorphic Smartlight Control
-Controlling smartbulbs by using gesture controls of a kind of phantom lightswitch cord. Perhaps with open pose or something.
+Controlling smartbulbs by using gesture controls on a kind of phantom lightswitch cord. Perhaps with OpenPose.
 
 Denver: "Yeah the Lifx bulbs really need some kind of switch or something, you just don't always have your phone on you"
 Lachlan: "It should use open pose or something, you when you do a gesture like pulling a hanging light switch cord"

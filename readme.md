@@ -27,6 +27,13 @@ _"There was a gap in the market"_ - Lachlan
 
 [![SAUCEBOT VIDEO](https://img.youtube.com/vi/QSnrsZbB1oo/0.jpg)](https://www.youtube.com/watch?v=QSnrsZbB1oo)
 
+## Flawed Fabrication Ideas
+### Skewmorphic Smartlight Control
+Controlling smartbulbs by using gesture controls of a kind of phantom lightswitch cord. Perhaps with open pose or something.
+
+Denver: "Yeah the Lifx bulbs really need some kind of switch or something, you just don't always have your phone on you"
+Lachlan: "It should use open pose or something, you when you do a gesture like pulling a hanging light switch cord"
+
 ## Bin Juice
 ### Lazer Type-writer
 (summary needed)

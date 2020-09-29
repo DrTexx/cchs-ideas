@@ -21,11 +21,11 @@ More to come.
 
 ## Flawed Fabrications
 ### Saucebot
-(summary needed)
+[The future of condiment dispensing.](https://github.com/PancakeLegend/SauceBot)
 
 _"There was a gap in the market"_ - Lachlan
 
-[![SAUCEBOT VIDEO](https://img.youtube.com/vi/QSnrsZbB1oo/0.jpg)](https://www.youtube.com/watch?v=QSnrsZbB1oo)
+[![SAUCEBOT VIDEO](https://i.imgur.com/3253IBY.jpg)](https://www.youtube.com/watch?v=fAMgsBxWGQ4)
 
 ## Flawed Fabrication Ideas
 ### Skewmorphic Smartlight Control
@@ -39,10 +39,13 @@ Lachlan: "It should use open pose or something, you when you do a gesture like p
 (summary needed)
 
 ### Pick-and-Place Pizza Machine
-(summary needed)
+Uses pick-and-place machine to apply toppings to pizza.
 
 ### Pick-and-Place Printing Press
-(summary needed)
+Converts e-books to analogue using a pick-and-place machine to typeset pages for a mechanical printing press. Hipster singularity ensues.
+
+### Obnoxious Wardrobe
+Throws random clothes at you. Single dial to control the level of * gestures vaguely at Denver *
 
 ### Robotic Zen Garden
 Chris: "We should have, like, sensors to detect the social tension in the Hackerspace... and like."
@@ -71,4 +74,8 @@ No like, you're undercover _AS_ a police officer.
 _Origin:_ Chris misheard Denver saying "Hello fellow kids" as "Hello fellow pigs".
 
 ### Speedometer Using Demerit Points as Units
+Ask Kerri
+
+### Electronic Swear Jar
+Detects swearing and subtracts money from an account.
 (summary needed)

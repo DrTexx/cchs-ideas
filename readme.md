@@ -47,3 +47,6 @@ No like, you're undercover _AS_ a police officer.
 _Origin:_ Chris misheard Denver saying "Hello fellow kids" as "Hello fellow pigs".
 
 ### Speedometer Using Demerit Points as Units
+
+### Electronic Sware Jar
+Detects swearing and subtracts money from an account.
